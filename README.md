@@ -1,8 +1,7 @@
 # Live 
-https://loquacious-bubblegum-77ecef.netlify.app/
+https://comfy-faun-40bfb4.netlify.app/
 
-# Preview 
-![image-removebg-preview (2)](https://github.com/masoom2313189/React-Assignment/assets/105916377/361bcd30-a11d-4739-9e98-33992779ab87)
+
 
 # Todo List
 
